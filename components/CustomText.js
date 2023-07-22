@@ -4,7 +4,7 @@ import React from 'react'
 const MyCustomTextWith = ({fName,lName})=> {
     return (
         <View>
-            <Text>Your First Name is {fName} and Last name is {lName} </Text>
+            <Text>Your First Name is {fName}! and Last name is {lName}! </Text>
         </View>
     )
 }
