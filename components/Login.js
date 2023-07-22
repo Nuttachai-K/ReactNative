@@ -43,7 +43,7 @@ export default function Login() {
        <Button  
         title='Submit'
         onPress={checkTextInput}
-
+        color="#888888"
         />
     </View>
   );
